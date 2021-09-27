@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tran-Phuoc-Thang
 - 👀 I’m interested in football
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning python 
+- 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me by gmail 1951040089@sv.ut.edu.vn
 
 <!---
